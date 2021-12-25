@@ -23,8 +23,7 @@ jobs:
 
       - name: Build
         run:
-          cd exampleSite
-          hugo --minify --themesDir ..
+          hugo --minify --gc
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
