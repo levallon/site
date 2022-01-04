@@ -1,6 +1,6 @@
 ---
-title: "Nous contacter"
-description: "Vous pouvez réserver une chambre ou nous poser une question par e-mail ou par téléphone."
+title: "Contact us"
+description: "You can call us or e-mail us to book a room or ask a question."
 bg_image: "images/le_vallon_vue_exterieure_cote_terrasse.jpg"
 layout: "contact"
 draft: false
