@@ -19,12 +19,34 @@ weight = 3
 [[main]]
 name = "Contact"
 url = "contact/"
+weight = 5
+
+[[main]]
 weight = 4
+name = "Nous aider"
+hasChildren = true
+
+  [[main]]
+  parent = "Nous aider"
+  name = "Devenir bénévole"
+  url = "benevolat/"
+  weight = 1
+
+  [[main]]
+  parent = "Nous aider"
+  name = "Faire un don"
+  url = "don/"
+  weight = 2
 
 
 # footer menu
 
 [[footer]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer]]
 name = "Mentions légales"
-url = "logement/"
+url = "mentions/"
 weight = 2

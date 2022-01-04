@@ -15,13 +15,14 @@
             {{ with site.Params.email }}<li><i class="fas fa-envelope"></i>{{ if $add_address_descriptors }}{{ i18n "email" | printf "%s: " }}{{ end }}<div>{{ . | markdownify }}</div></li>{{ end }}
             {{ with site.Params.phone }}<li><i class="fas fa-tty"></i>{{ if $add_address_descriptors }}{{ i18n "phone" | printf "%s: " }}{{ end }}<div>{{ . | markdownify }}</div></li>{{ end }}
           </ul>
+          {{i18n "open"}}
         </div>
       </div>
       {{- end }}
       {{ if site.Params.gmap.enable -}}
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <iframe width="600" height="350" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4407968521118166%2C43.557077957223434%2C1.4541864395141604%2C43.56395071975704&amp;layer=mapnik&amp;marker=43.560514436488575%2C1.4474916458129883" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.56051&amp;mlon=1.44749#map=17/43.56051/1.44749">Afficher une carte plus grande</a></small>
+          <iframe width="600" height="370" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4407968521118166%2C43.557077957223434%2C1.4541864395141604%2C43.56395071975704&amp;layer=mapnik&amp;marker=43.560514436488575%2C1.4474916458129883" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.56051&amp;mlon=1.44749#map=17/43.56051/1.44749">Afficher une carte plus grande</a></small>
         </div>
       </div>
       {{- end }}

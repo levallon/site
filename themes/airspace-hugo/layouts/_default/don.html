@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="about section" style="text-align: justify;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          {{ with .content_1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          <br>
+          {{ with .content_2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          <br>
+          {{ with .content_3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ end }}

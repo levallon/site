@@ -6,7 +6,7 @@ layout: "logement"
 draft: false
 menu:
   main:
-    name: "Offre de logement"
+    name: "Housing"
     weight: 2
 
 

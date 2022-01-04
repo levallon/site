@@ -21,13 +21,22 @@ about:
   enable: true
   title: "Présentation"
   description: ""
-  content: "Située dans l’enceinte de l’hôpital Rangueil et gérée par une intendante et une équipe de bénévoles qui assurent une permanence toute l’année, la maison d’accueil hospitalière <b>« Le Vallon »</b> (association de loi 1901) propose des solutions d’hébergement aux parents ou aux proches de patients hospitalisés à Toulouse, dans un établissement public ou privé. Par sa situation géographique, cette maison d’accueil hospitalière est donc particulièrement utile aux parents ou aux proches de patients hospitalisés qui recherchent un hébergement à proximité des hôpitaux de Rangueil, Larrey ou de l'Oncopôle.<br><br><br>"
-  image: "images/wrapper-img.png"
-  title_2: "Le Vallon, c’est aussi un hôtel hospitalier et un hébergement pour les patients soignés en ambulatoire"
-  content_2: "L’hôtel hospitalier est une alternative à l’hospitalisation pour les patients autonomes en traitement en hôpital de jour qui nécessitent des soins continus, mais dont l’état de santé ne justifie pas une présence permanente dans un service d’hospitalisation. La maison d’accueil hospitalière <b>« Le Vallon »</b> propose cette possibilité d’hébergement en hôtel hospitalier et dispose pour cela de chambres individuelles destinées à des patients. Dans ce cas, les frais d’hébergement facturés par la maison d’accueil hospitalière <b>« Le Vallon »</b> au patient peuvent être pris en charge par l’Assurance Maladie dans le cadre de l’hospitalisation.<br><br>
+  content: "Située dans l’enceinte de l’hôpital Rangueil, la maison d’accueil hospitalière <b>« Le Vallon »</b> (association de loi 1901) est gérée par deux intendantes, deux veilleurs de nuit et une équipe de bénévoles qui assurent une permanence toute l’année, 24h/24. Elle propose des <b>solutions d’hébergement</b> aux <b>parents</b> ou aux <b>proches de patients hospitalisés</b> à Toulouse, dans un établissement public ou privé.<br><br>
+
+  Par la présence d'une <b>équipe formée à l'écoute</b>, et dans une atmosphère familiale, notre mission ne se cantonne pas à fournir un logement mais également un <b>accueil personnalisé et un soutien</b>.<br><br>
   
-  Nous hébergeons également des patients soignés en ambulatoire. Nos salariés et bénévoles ne dispensant pas de soins, cette offre est réservée à des patients autonomes. Elle permet aux personnes vivant loin de l'hôpital d'être logées la veille ou le lendemain de leur examen médical afin de faciliter leurs trajets. Les frais d'hébergement peuvent là aussi être pris en charge par l’Assurance Maladie.
+  Par sa situation géographique, cette maison d’accueil hospitalière est particulièrement adaptée aux parents ou aux proches de patients des hôpitaux de Rangueil, Larrey ou de l'Oncopôle.<br><br><br>"
+  image: "images/wrapper-img.png"
+  title_2: "Le Vallon, c’est aussi un hôtel hospitalier et un hébergement pour les patients"
+  content_2: "L’hôtel hospitalier est un hébergement pour les patients:<br><br>
+  - en traitement en hôpital de jour<br>
+  - pour une nuit, la veille ou à la sortie de l'hospitalisation.<br><br>
+  
+  Nos salariés et bénévoles ne dispensant pas de soins, cette offre est réservée à des patients autonomes.<br><br>
+  Dans certains cas, les frais d'hébergement peuvent être pris en charge par l’Assurance Maladie ou par l'hôpital, renseignez-vous auprès de votre service d'hospitalisation.
   "
+  title_3: "Bénévolat"
+  content_3: "L'équipe de bénévoles permet de compléter l'action de nos salariés pour maintenir l'établissement ouvert 24h/24, 7j/7, tout en offrant des tarifs accessibles au plus grand nombre. Si vous êtes intéressés par nous rejoindre, n'hésitez pas à visiter l'onglet 'Nous aider'."
 
 
 ######################### Portfolio ###############################

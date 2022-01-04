@@ -7,76 +7,44 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Housing"
+url = "logement/"
 weight = 2
 
 [[main]]
-name = "Project"
-url = "project/"
+name = "Photos"
+url = "photos/"
 weight = 3
 
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
+name = "Contact"
+url = "contact/"
+weight = 5
 
 [[main]]
-weight = 5
-name = "More"
+weight = 4
+name = "Help us"
 hasChildren = true
 
   [[main]]
-  parent = "More"
-  name = "Service"
-  url = "service/"
+  parent = "Help us"
+  name = "Volunteering"
+  url = "benevolat/"
   weight = 1
 
   [[main]]
-  parent = "More"
-  name = "Pricing"
-  url = "pricing/"
+  parent = "Help us"
+  name = "Donate"
+  url = "don/"
   weight = 2
-
-  [[main]]
-  parent = "More"
-  name = "FAQ"
-  url = "faq/"
-  weight = 3
-  
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 6
-
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
-weight = 2
-
-[[footer]]
-name = "Project"
-url = "project/"
-weight = 3
-
-[[footer]]
-name = "Service"
-url = "service/"
-weight = 4
-
-[[footer]]
-name = "Pricing"
-url = "pricing/"
-weight = 5
-
-[[footer]]
-name = "FAQ"
-url = "faq/"
-weight = 6
-
-[[footer]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 1
+
+[[footer]]
+name = "Mentions"
+url = "mentions/"
+weight = 2

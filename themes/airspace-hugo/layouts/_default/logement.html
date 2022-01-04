@@ -11,11 +11,6 @@
         <div class="block">
           <br>
           {{ with .introduction }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-          <br>
-          {{ with .chambre_1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-          {{ with .chambre_2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-          {{ with .chambre_3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-          {{ with .chambre_4 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
       </div>
       
@@ -46,8 +41,6 @@
     <br>
     <div class="row">
       <div class="col-md-6">
-        <br>
-        <br>
         <br>
         {{ with .restaurant }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
       </div>
