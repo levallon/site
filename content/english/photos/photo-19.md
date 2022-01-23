@@ -1,6 +1,6 @@
 ---
 description: "Living room"
 draft: false
-image : "images/salon.jpg"
+image : "images/DSCF1416_DxO.jpg"
 category: [ "Inside" ]
 ---

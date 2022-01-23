@@ -1,6 +1,6 @@
 ---
-description: "Réception"
+description: "Welcome desk"
 draft: false
 image : "images/accueil.jpg"
-category: [ "Intérieur" ]
+category: [ "Inside" ]
 ---

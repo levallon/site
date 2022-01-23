@@ -1,7 +1,7 @@
 ---
-description: "Salle de détente"
+description: "Rest room"
 draft: false
 image : "images/salle_detente.jpg"
-category: [ "Intérieur" ]
+category: [ "Inside" ]
 ---
 

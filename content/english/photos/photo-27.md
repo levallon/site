@@ -1,6 +1,6 @@
 ---
 description: "Welcome desk"
 draft: false
-image : "images/IMG_20200303_180412.jpeg"
+image : "images/DSCF1517_DxO.jpg"
 category: [ "Inside" ]
 ---

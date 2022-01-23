@@ -1,6 +1,6 @@
 ---
 description: "Piano"
 draft: false
-image : "images/IMG_20200128_155830.jpeg"
+image : "images/DSCF1490_DxO.jpg"
 category: [ "Inside" ]
 ---

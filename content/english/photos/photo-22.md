@@ -1,6 +1,6 @@
 ---
 description: "Terrace"
 draft: false
-image : "images/terrasse.jpg"
+image : "images/DSCF1439_DxO.jpg"
 category: [ "Outside" ]
 ---

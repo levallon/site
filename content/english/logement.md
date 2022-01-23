@@ -13,9 +13,9 @@ menu:
 ################################## About #####################################
 about:
   enable : true
-  chambre_img : "images/chambre.jpg"
+  chambre_img : "images/DSCF1384_DxO.jpg"
   sdb_img : "images/salle_de_bains.jpg"
-  restaurant_img : "images/restaurant.jpg"
+  restaurant_img : "images/IMG_20200128_155745.jpeg"
   introduction : "Nous disposons d'une capacité d'accueil totale de 48 personnes répartie en différentes catégories de chambres :<br><br>
   - 9 chambres doubles \"confort\" (50€/nuit)<br>
   - 4 chambres doubles avec sanitaires communs (35€/nuit)<br>
