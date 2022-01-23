@@ -1,7 +1,7 @@
 ---
 title: "Notre offre de logement"
 description: "Chambres, restauration et tarifs."
-bg_image: "images/le_vallon_vue_exterieure_cote_terrasse.jpg"
+bg_image: "images/DSCF1476_DxO.jpg"
 layout: "logement"
 draft: false
 menu:

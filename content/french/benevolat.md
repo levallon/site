@@ -2,7 +2,7 @@
 title: "Devenir bénévole"
 description: "Vous êtes intéressé(e) par le bénévolat, vous aimez les contacts humains, vous avez le sens de l'accueil.
 Venez nous rejoindre !"
-bg_image: "images/le_vallon_vue_exterieure_cote_terrasse.jpg"
+bg_image: "images/DSCF1476_DxO.jpg"
 layout: "benevolat"
 draft: false
 menu:

@@ -1,7 +1,7 @@
 ---
 title: "Mentions légales"
 description: ""
-bg_image: "images/le_vallon_vue_exterieure_cote_terrasse.jpg"
+bg_image: "images/DSCF1476_DxO.jpg"
 layout: "mentions"
 draft: false
 menu:

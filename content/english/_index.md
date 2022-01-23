@@ -7,7 +7,7 @@ menu:
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/le_vallon_vue_exterieure_cote_terrasse.jpg"
+  bg_image: "images/DSCF1476_DxO.jpg"
   bg_overlay: true
   title: "« Le Vallon » hotel"
   content: "We provide housing and support to people visiting hospitalized relatives and to patients before, during or after their stay at the hospital."
