@@ -1,6 +1,0 @@
----
-description: "Entrance"
-draft: false
-image : "images/le_vallon_entree.jpg"
-category: [ "Outside" ]
----

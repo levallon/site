@@ -1,6 +1,0 @@
----
-description: "Terrace"
-draft: false
-image : "images/terrasse.jpg"
-category: [ "Outside" ]
----

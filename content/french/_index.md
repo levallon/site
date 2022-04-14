@@ -10,7 +10,7 @@ banner:
   bg_image: "images/DSCF1476_DxO.jpg"
   bg_overlay: true
   title: "Maison d’accueil hospitalière <br/> Le Vallon"
-  content: "Nous offrons un logement et un accompagnement humain et chaleureux aux proches des personnes hospitalisées ainsi qu'aux patients en bilan, en pré ou post-hospitalisation, ou encore en traitement ambulatoire."
+  content: "Nous proposons un logement et un accompagnement humain et chaleureux aux proches des personnes hospitalisées ainsi qu'aux patients en bilan, en pré ou post-hospitalisation, ou encore en traitement ambulatoire."
   button:
     enable: true
     label: "Nous contacter"

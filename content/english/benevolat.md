@@ -1,7 +1,6 @@
 ---
-title: "Devenir bénévole"
-description: "Vous êtes intéressé(e) par le bénévolat, vous aimez les contacts humains, vous avez le sens de l'accueil.
-Venez nous rejoindre !"
+title: "Volunteering"
+description: "You love interaction with people, you've got a sense of hospitality? Join us!"
 bg_image: "images/DSCF1476_DxO.jpg"
 layout: "benevolat"
 draft: false
@@ -15,9 +14,9 @@ menu:
 ################################## About #####################################
 about:
   enable : true
-  content : "Chaque jour, samedis et dimanches compris, deux équipes de deux bénévoles se relaient pour compléter l'action de nos salariés. La première équipe, de 14h à 18h, assure l'accueil des résidents et aide au fonctionnement de l'établissement (permanence téléphonique, gestion des tâches courantes, etc). La deuxième équipe, de 18h à 21h, organise et sert le dîner lorsque la situation sanitaire permet d'assurer un service de restauration.<br><br>
-  Les bénévoles peuvent proposer des activités ponctuelles ouvertes aux résidents et à l'ensemble des membres de l'association : musique, préparation de foie gras, décoration florale, pâtisserie, exposition photos, galette des rois, sophrologie,...<br><br>
-  Nos bénévoles se rendent disponibles au moins deux fois par mois.<br><br>
-  Si vous souhaitez devenir bénévole, contactez-nous par téléphone au 05.61.55.44.92 ou par mail à secretaire.levallon@orange.fr."
+  content : "Everyday, including weekends, two teams of two volunteers relay one another to help our salaried employees. The first team, from 2pm to 6pm, welcomes residents and takes part to the good running of the hotel (answering phone calls,...). The second team, from 6pm to 9pm, organizes and serves the dinner (if the sanitary conditions allow us to keep the restaurant opened).<br><br>
+  Volunteers can also propose occasional activities for residents and memebers of the association: music, cooking foie gras, floral decoration, pastry, photo exhibition, traditional 'Galette des Rois', sophrology,...<br><br>
+  Volunteers make themselves available twice a month.<br><br>
+  If you want to volunteer, call us (+33 5 61 55 44 92) or e-mail us (secretaire.levallon@orange.fr)."
 
 ---

@@ -1,6 +1,0 @@
----
-description: "Living room"
-draft: false
-image : "images/salon.jpg"
-category: [ "Inside" ]
----

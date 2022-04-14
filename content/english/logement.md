@@ -1,6 +1,6 @@
 ---
-title: "Notre offre de logement"
-description: "Chambres, restauration et tarifs."
+title: "Our housing facilities"
+description: "Rooms, catering et price."
 bg_image: "images/DSCF1476_DxO.jpg"
 layout: "logement"
 draft: false
@@ -16,22 +16,22 @@ about:
   chambre_img : "images/DSCF1384_DxO.jpg"
   sdb_img : "images/salle_de_bains.jpg"
   restaurant_img : "images/IMG_20200128_155745.jpeg"
-  introduction : "Nous disposons d'une capacité d'accueil totale de 48 personnes répartie en différentes catégories de chambres :<br><br>
-  - 9 chambres doubles \"confort\" (50€/nuit)<br>
-  - 4 chambres doubles avec sanitaires communs (35€/nuit)<br>
-  - 11 chambres simples \"confort\" (40€/nuit)<br>
-  - 9 chambres simples avec sanitaires communs (28€/nuit)"
-  pmr: "<br>En outre, deux de nos chambres, une chambre double et une chambre simple \"confort\", ont été aménagées avec un lit médicalisé, une douche adaptée et une configuration adaptée au passage d'un fauteuil roulant pour accueillir des personnes à mobilité réduite."
-  restaurant : "Les petits \"+\" du Vallon:<br><br>
-  - un accès WiFi<br>
-  - une bibliothèque<br>
-  - un salon avec télévision grand écran et piano<br>
-  - un ordinateur en libre service<br>
-  - une terrasse pour pique-niquer et se décontracter<br>
-  - une fontaine à eau en libre service<br>
-  - un parking gratuit à l'usage des résidents<br>
+  introduction : "We can accomodate up to 48 persons in different categories of rooms:<br><br>
+  - 9 \"comfort\" double bedrooms  (50€/night)<br>
+  - 4 double bedrooms with common bathrooms (35€/night)<br>
+  - 11 \"comfort\" single bedrooms (40€/night)<br>
+  - 9 single bedrooms with common bathrooms (28€/night)"
+  pmr: "<br>Moreover, two of our bedrooms, a double and a single \"comfort\" bedrooms, are equipped with a medical bed, a shower and a configuration adapted for accomodating persons of reduced mobility."
+  restaurant : "Le Vallon extras:<br><br>
+  - a WiFi access<br>
+  - a library<br>
+  - a living room with large screen TV and a piano<br>
+  - a computer in open access<br>
+  - a terrace to picnic or relax<br>
+  - a freely accessible drinking fountain<br>
+  - a free car park for residents<br>
   <br><br>
-  Lorsque les conditions sanitaires le permettent, nous servons également un dîner dans notre salle de restaurant chaque jour à 20h (10€/personne)."
+  When sanitary conditions allow, we serve a diner in the restaurant room, everyday at 8pm (10€/person)."
 
 restaurant:
   enable : true

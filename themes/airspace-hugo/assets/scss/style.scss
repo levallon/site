@@ -13,20 +13,22 @@ $light: {{.light | default "#EDF6F5"}};
 
 
 // Font Variables
-$font-size: {{.font_size | default "16px"}};
+$font-size: {{.font_size | default "21px"}}; // +5
 $font-scale: {{.font_scale | default "1.25"}};
 $font-primary: '{{replace (replaceRE ":[ital,]*[ital@]*[wght@]*[0-9,;]+" "" .font_primary | default "Lato") "+" " "}}', {{.font_primary_type | default "sans-serif"}};
 $font-secondary: '{{replace (replaceRE ":[ital,]*[ital@]*[wght@]*[0-9,;]+" "" .font_secondary | default "Lato") "+" " "}}', {{.font_secondary_type | default "sans-serif"}};
 $font-icon: '{{.font_icon | default "Font Awesome 5 Free"}}';
 {{ end }}
 
-$h1: 40px;
-$h1-md: 34px;
-$h2: 28px;
-$h2-md: 26px;
-$h2-sm: 22px;
-$h3: 20px;
-$h4: 18px;
+// +10
+$h1: 50px;
+$h1-md: 44px;
+$h2: 38px;
+$h2-md: 36px;
+$h2-sm: 32px;
+// +5
+$h3: 25px;
+$h4: 23px;
 
 @import 'mixins.scss';
 

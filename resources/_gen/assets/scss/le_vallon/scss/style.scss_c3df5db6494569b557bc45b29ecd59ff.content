@@ -24,30 +24,30 @@ h6 {
   font-weight: 400; }
 
 h1 {
-  font-size: 40px; }
+  font-size: 50px; }
   @media (max-width: 768px) {
     h1 {
-      font-size: 34px; } }
+      font-size: 44px; } }
   @media (max-width: 480px) {
     h1 {
-      font-size: 28px; } }
+      font-size: 38px; } }
   @media (max-width: 400px) {
     h1 {
-      font-size: 26px; } }
+      font-size: 36px; } }
 h2 {
-  font-size: 28px; }
+  font-size: 38px; }
   @media (max-width: 480px) {
     h2 {
-      font-size: 22px; } }
+      font-size: 32px; } }
 h3 {
-  font-size: 20px; }
+  font-size: 25px; }
 
 h4 {
-  font-size: 18px; }
+  font-size: 23px; }
 
 p {
   color: #777777;
-  font-size: 15px;
+  font-size: 18px;
   font-family: "Roboto", sans-serif; }
 
 ul {

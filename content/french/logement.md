@@ -22,15 +22,15 @@ about:
   - 11 chambres simples \"confort\" (40€/nuit)<br>
   - 9 chambres simples avec sanitaires communs (28€/nuit)"
   pmr: "<br>En outre, deux de nos chambres, une chambre double et une chambre simple \"confort\", ont été aménagées avec un lit médicalisé, une douche adaptée et une configuration adaptée au passage d'un fauteuil roulant pour accueillir des personnes à mobilité réduite."
-  restaurant : "Les petits \"+\" du Vallon:<br><br>
-  - un accès WiFi<br>
+  restaurant : "Les petits \"+\" du Vallon :<br><br>
+  - un accès Wi-Fi<br>
   - une bibliothèque<br>
   - un salon avec télévision grand écran et piano<br>
   - un ordinateur en libre service<br>
   - une terrasse pour pique-niquer et se décontracter<br>
   - une fontaine à eau en libre service<br>
   - un parking gratuit à l'usage des résidents<br>
-  <br><br>
+  <br>
   Lorsque les conditions sanitaires le permettent, nous servons également un dîner dans notre salle de restaurant chaque jour à 20h (10€/personne)."
 
 restaurant:
