@@ -5,20 +5,35 @@
 <section class="contact-form">
   <div class="container">
     <div class="contact-box row">
-      {{ with site.Params.contact -}}
+      
       <div class="col-md-6 col-sm-12">
+        
+        
         <div class="block">
           <h2>{{ i18n "address_title" }}</h2>
+          {{ with .Params.about }}
+        {{ if .enable }}
+          {{ with .content_0 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ end }}
+        {{ end }}
+          {{ with site.Params.contact -}}
           <ul class="address-block">
             {{ $add_address_descriptors := .address_descriptors }}
             {{ with site.Params.location }}<li><i class="fas fa-map-marker-alt"></i>{{ if $add_address_descriptors }}{{ i18n "location" | printf "%s: " }}{{ end }}<div>{{ . | markdownify }}</div></li>{{ end }}
             {{ with site.Params.email }}<li><i class="fas fa-envelope"></i>{{ if $add_address_descriptors }}{{ i18n "email" | printf "%s: " }}{{ end }}<div>{{ . | markdownify }}</div></li>{{ end }}
             {{ with site.Params.phone }}<li><i class="fas fa-tty"></i>{{ if $add_address_descriptors }}{{ i18n "phone" | printf "%s: " }}{{ end }}<div>{{ . | markdownify }}</div></li>{{ end }}
           </ul>
-          {{i18n "open"}}
         </div>
+        {{- end }}
+        {{ with .Params.about }}
+        {{ if .enable }}
+        <div class="block">
+          {{ with .content_1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+        {{ end }}
+        {{ end }}  
       </div>
-      {{- end }}
+      
       {{ if site.Params.gmap.enable -}}
       <div class="col-md-6 col-sm-12">
         <div class="block">
@@ -26,8 +41,18 @@
         </div>
       </div>
       {{- end }}
+      {{ with .Params.about }}
+      {{ if .enable }}
+      <div class="col-md-12">
+            <div class="block">
+              {{ with .content_2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+            </div>
+          </div>
+      {{ end }}
+      {{ end }}
     </div>
   </div>
 </section>
+
 
 {{ end }}
